@@ -6,11 +6,11 @@
 
 ## Bootcamp / Curso
 
-💻 Projeto do Bootcamp Decola Tech 3a edição / Introdução ao React Native do professor Ismael Moreira na plataforma dio.me.
+💻 Projeto do Bootcamp Decola Tech 3a edição / Introdução ao React Native do professor Pablo Henrique na plataforma dio.me.
 
 ## Escopo
 
-📚 Neste projeto, eu tive a oportunidade de desenvolver o meu tterceiro App utilizando o React Native. Sendo assim, 
+📚 Neste projeto, eu tive a oportunidade de desenvolver o meu terceiro App utilizando o React Native. Sendo assim, 
 aprendi a criar um App para expor algumas das minhas experiências profissionais.
 
 ## Foco
@@ -27,4 +27,4 @@ aprendi a criar um App para expor algumas das minhas experiências profissionais
 
 ## Imagens
 
-Neste momento, não possuo imagens, mas em breve pretendo disponiziliar.
+Neste momento, não possuo imagens, mas em breve pretendo disponibilizar.
