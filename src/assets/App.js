@@ -101,10 +101,6 @@ const style = StyleSheet.create({
     width: '60%',
     marginTop: 20,
   },
-  card_content_text: {
-    color: '#939393',
-    marginBottom: 10,
-  },
 });
 
 
