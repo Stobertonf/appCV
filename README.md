@@ -23,7 +23,7 @@ aprendi a criar um App para expor algumas das minhas experiências profissionais
 
 ## Objetivo
 
-🤔 Ao fazer este curso e projeto, meu principal objetivo é aprender uma tecnologia nova  para que eu possa aprender a consumir recursos do React Native no Flutter.
+🤔 Ao fazer este curso e projeto, meu principal objetivo seria aprender a consumir recursos do React Native no Flutter, além de aprender uma tecnologia nova.
 
 ## Observação
 
